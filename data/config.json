@@ -1,0 +1,8 @@
+{
+  "tag_min_len": 2,
+  "tag_max_len": 6,
+  "name_min_len": 3,
+  "default_clan_limit": 50,
+  "glow_duration_ticks": 200,
+  "default_friendly_fire": false
+}
